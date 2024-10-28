@@ -1,0 +1,13 @@
+.form {
+    display: flex;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    flex-direction: column;
+    gap: 2px;
+    margin-bottom: 15px;
+}
+
+.lastField {
+    margin-bottom: 10px;
+}
